@@ -15,5 +15,7 @@ First, copy Tanuki's repository via `git clone`, then run `installer.py`  to ins
 @2026 CuerdOS Dev Team, This program comes with the GNU LGPLv3 licence, consult https://www.gnu.org/licenses/lgpl-3.0.html for more 
 information.
 
+## Screenshot
+
 ![Tanuki! running on CuerdOS 2.0 Skycatcher with Cinnamon](screenshot.png)
 
