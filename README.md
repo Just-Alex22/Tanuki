@@ -10,7 +10,7 @@
 
 **Tanuki!** is a health and security control center designed to simplify the maintenance of **Linux** systems. It acts as an intuitive graphical interface for **ClamAV**, allowing you to perform malware scans, manage quarantined files, and update virus signatures without using the command line at all.
 
-# Characteristics
+## Characteristics
 - **User-friendly graphical interface**
 - **Fast and lightweight**
 - **Comes with an installer**
