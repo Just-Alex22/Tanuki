@@ -34,8 +34,8 @@ Clone the repository and run the app:
 ```bash
 git clone https://github.com/Just-Alex22/Tanuki.git
 cd Tanuki
-python3 installer.py
-python3 tanuki!.py
+python3 installer.py # installs dependecies
+python3 tanuki!.py 
 
 ```
 ## Contributing
