@@ -1,10 +1,10 @@
 # Tanuki! for CuerdOS
 
 <p align="center">
-  <img src="Logos/logo.png" alt="Tanuki! Logo" width="150"/>
+  <img src="Logos/Thumbnail.png" alt="Tanuki! Logo" width="150"/>
 </p>
 
-![Tanuki! running on CuerdOS 2.0 Skycatcher with Cinnamon](Screenshots/screenshot.png)
+![Tanuki! running on CuerdOS 2.0 Skycatcher with Cinnamon](Screenshots/screenshot.jpg)
 
 ## What is **Tanuki!**?
 
