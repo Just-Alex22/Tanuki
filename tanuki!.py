@@ -24,7 +24,7 @@ class AlecaishereApp(Gtk.Window):
         self.set_default_size(1000, 850)
         self.set_position(Gtk.WindowPosition.CENTER)
         self.base_path = os.path.dirname(os.path.abspath(__file__))
-        self.logo_path = os.path.join(self.base_path, "logo.png")
+        self.logo_path = os.path.join(self.base_path, "tanuki.svg")
         
         self.quarantine_path = os.path.expanduser("~/.tanuki_quarantine")
         self.log_file = os.path.expanduser("~/.tanuki_history.log")
