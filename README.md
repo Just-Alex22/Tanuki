@@ -1,4 +1,4 @@
-# Tanuki! for CuerdOS
+# Tanuki! for CuerdOS (Discontinued)
 
 <p align="center">
   <img src="Logos/Thumbnail.png" alt="Tanuki! Logo" width="450"/>
